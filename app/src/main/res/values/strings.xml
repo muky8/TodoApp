@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="hello_text">Hello Mukthar</string>
+    <string name="list_text">Here is you list for the day.</string>
+    <string name="add_todolist">Add To Do List</string>
+    <string name="enter_data_text">Enter what you want to do:</string>
+
+</resources>
